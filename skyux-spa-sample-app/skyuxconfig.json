@@ -1,0 +1,18 @@
+{
+  "mode": "advanced",
+  "compileMode": "aot",
+  "a11y": true,
+  "app":{
+    "title": "Title",
+    "external":{
+      "js":{
+        "before":[
+          {
+            "url":"https://appsforoffice.microsoft.com/lib/1/hosted/office.js",
+            "head": true
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "blackbaud-skyux-spa-sample-app",
+  "version": "0.0.1",
+  "description": "Single-page-application for skyux-spa-sample-app",
+  "main": "index.js",
+  "engines": {
+    "node": ">=6.11.1"
+  },
+  "scripts": {
+    "skyux": "skyux",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Blackbaud",
+  "license": "ISC",
+  "dependencies": {
+    "@blackbaud/skyux": "2.8.0"
+  },
+  "devDependencies": {
+    "@angular/cli": "^1.6.8",
+    "@blackbaud/skyux-builder": "1.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
