@@ -30,4 +30,33 @@ updated @ 3.54:00
  
 45
  
+ 
 zxzxzx
+ zxzxzx
+
+updated @ 4.36:00
+
+.pdf
+.doc
+.docx
+.odt
+.html
+.xml
+.rtf
+.icon
+.exif
+.tiff
+.png
+.jpeg
+.jpg
+.gif
+.wmf
+.emf
+.bmp
+.xlsx
+.xls
+.csv  
+ 
+ 
+
+>>>>>>> master
