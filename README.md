@@ -7,3 +7,4 @@ import { SkyHostBrowser } ;
 import { SkyA11y }  
  from 'protractor'
  
+ from 'protractor';
