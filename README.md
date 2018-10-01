@@ -33,3 +33,9 @@ wwwwwwwwwwww
  
  XXXXXXXX
  yyyyyyyy
+<<<<<<< HEAD
+ zzzzzz
+=======
+ zzzzzz
+ ccccc
+>>>>>>> 34351e5... fixup! my commit 1
