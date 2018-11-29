@@ -1,29 +1,4 @@
-111  
-222  
-333  
-444  
-555  
- 
- 
-666
-777
+.NET
+.NET is a free, cross-platform, open source developer platform for building many different types of applications.
 
-88.88
-999
- 
-ewrewr  
-ewrewrew   
- 
-sss
- 
-rrr 
-
-rrrrr 
-
-
-rrrrr
- 
-sss  
-rrrr 
- 
- 
+With .NET, you can use multiple languages, editors, and libraries to build for web, mobile, desktop, gaming, and IoT.
